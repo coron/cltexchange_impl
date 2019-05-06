@@ -4,7 +4,7 @@ This is an implementation in Sage of the algorithms described in the paper:
 
 * [CP18] J. S. Coron, H. V. L. Pereira, "On Kilian's Randomization of Multilinear Map Encodings". IACR Cryptology ePrint Archive 2018: 1129 (2018)
 
-#### Key-echange based on CLT13 multilinear maps
+#### Key-exchange based on CLT13 multilinear maps
 * Sage implementation
 
 #### Implementation of the lattice attacks
